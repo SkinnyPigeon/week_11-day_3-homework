@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eightball</string>
+    <string name="question">Wat?</string>
+    <string name="shak">Shak</string>
+    <string name="answer">01101000 10</string>
+    <!--<string name="ans1">Because</string>-->
+    <!--<string name="ans2">Why not?</string>-->
+    <!--<string name="ans3">You don\'t want to know</string>-->
+</resources>
+
